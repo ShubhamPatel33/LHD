@@ -64,7 +64,7 @@ model.score(X_test, y_test)
 
 messages = [
     """
-Hi Kunal,
+Hi Aakil,
 We invite you to participate in MishMash - India’s largest online diversity hackathon. 
 The hackathon is a Skillenza initiative and sponsored by Microsoft, Unity, Unilever, Gojek, Rocketium and Jharkhand Government. 
 We have a special theme for you - Deep Tech/Machine Learning - sponsored by Unilever, which will be perfect for you.""",
